@@ -1,0 +1,6 @@
+if(problem != 'solved') {
+	return "not good";
+}
+else {
+	return "easy going";
+}

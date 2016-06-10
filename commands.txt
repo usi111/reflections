@@ -1,0 +1,15 @@
+#compares two files among each other
+diff -u oldfileversion newfileversion
+
+#lists all commits
+git log [--stat]
+--stat			#lists additional statistic information
+
+#compares two commits among each other
+git diff id_oldversion id_newversion
+
+#downloads an entire repository to my computer (including #former versions)
+git clone
+
+#restores to a previous file
+git checkout

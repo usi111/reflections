@@ -1,0 +1,10 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+A new (hidden) .git-folder is added to the directory. This indicates Git that it is a directory which should be tracked via git. 
+-----------------
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I can decide which files I would like to add to a commit and which ones not.
+
+---

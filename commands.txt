@@ -16,3 +16,5 @@ git checkout
 
 #creates a new git repository (= adds hidden .git folder to current directory)
 git init 
+
+BUGFIXED

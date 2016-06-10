@@ -1,5 +1,5 @@
 if(problem != 'solved') {
-	return "not good";
+	return "not goodly";
 }
 else {
 	return "easy going";

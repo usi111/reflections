@@ -1,4 +1,4 @@
-1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+. How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 The command diff -u oldfileversion newfileversion showed me exactly which lines of code were different between the two versions. A plus sign stands for code which was added to the new version, a minus sign indicates that in this line code was removed. Be aware about the order how the command is prompted: in the first place there should be the old file and in the second place the new file.
 

@@ -13,3 +13,6 @@ git clone
 
 #restores to a previous file
 git checkout
+
+#creates a new git repository (= adds hidden .git folder to current directory)
+git init 
